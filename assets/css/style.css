@@ -8,3 +8,6 @@ body{
     background-color: skyblue;
     background: url("../images/flappybirdbg.png");
 }
+#bird{
+    background: transparent !important;
+}
